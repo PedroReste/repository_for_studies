@@ -1,0 +1,9 @@
+dtype_diet
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+
+summarytools
+    Jinja2
