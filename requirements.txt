@@ -2,6 +2,7 @@ dtype_diet
 numpy
 matplotlib
 pandas
+pandas openpyxl
 seaborn
 scikit-learn
 
