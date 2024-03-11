@@ -5,6 +5,7 @@ pandas
 pandas openpyxl
 seaborn
 scikit-learn
+scipy
 
 summarytools
     Jinja2
