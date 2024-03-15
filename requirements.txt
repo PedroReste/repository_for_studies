@@ -1,4 +1,8 @@
 dtype_diet
+ipympl
+    jupyter nbextension install --py --symlink --sys-prefix ipympl
+ipywidgets
+    jupyter nbextension enable --py --sys-prefix widgetsnbextension
 numpy
 matplotlib
 pandas
@@ -6,6 +10,10 @@ pandas openpyxl
 seaborn
 scikit-learn
 scipy
-
 summarytools
     Jinja2
+
+jupyter
+
+
+
