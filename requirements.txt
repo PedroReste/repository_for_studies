@@ -1,3 +1,4 @@
+category_encoders
 dtype_diet
 ipympl
     jupyter nbextension install --py --symlink --sys-prefix ipympl
