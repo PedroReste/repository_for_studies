@@ -1,5 +1,7 @@
 category_encoders
+datetime
 dtype_diet
+IPython
 ipympl
     jupyter nbextension install --py --symlink --sys-prefix ipympl
 ipywidgets
@@ -8,6 +10,7 @@ numpy
 matplotlib
 pandas
 pandas openpyxl
+patsy
 seaborn
 scikit-learn
 scipy
