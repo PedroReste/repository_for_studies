@@ -19,5 +19,9 @@ summarytools
 
 jupyter
 
+Data engeering
+
+psycopg2
+
 
 
