@@ -1,6 +1,8 @@
 category_encoders
 datetime
 dtype_diet
+feature_engine
+google-api-python-client
 IPython
 ipympl
     jupyter nbextension install --py --symlink --sys-prefix ipympl
@@ -11,11 +13,14 @@ matplotlib
 pandas
 pandas openpyxl
 patsy
+python-csv
+requests
 seaborn
 scikit-learn
 scipy
 summarytools
     Jinja2
+xgboost
 
 jupyter
 
