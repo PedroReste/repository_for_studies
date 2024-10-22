@@ -10,10 +10,13 @@ ipywidgets
     jupyter nbextension enable --py --sys-prefix widgetsnbextension
 numpy
 matplotlib
+missingno
 pandas
 pandas openpyxl
 patsy
 python-csv
+pytrends
+qgrid
 requests
 seaborn
 scikit-learn
