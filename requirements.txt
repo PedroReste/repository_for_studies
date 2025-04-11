@@ -1,3 +1,4 @@
+python==3.11.9
 category_encoders
 datetime
 dtype_diet
@@ -20,9 +21,11 @@ qgrid
 requests
 seaborn
 scikit-learn
+scikit-surprise
 scipy
 summarytools
     Jinja2
+wheel
 xgboost
 
 jupyter
@@ -30,6 +33,3 @@ jupyter
 Data engeering
 
 psycopg2
-
-
-
