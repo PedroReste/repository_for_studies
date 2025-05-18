@@ -1,9 +1,11 @@
 python==3.11.9
+catboost
 category_encoders
 datetime
 dtype_diet
 feature_engine
 google-api-python-client
+lightgbm
 IPython
 ipympl
     jupyter nbextension install --py --symlink --sys-prefix ipympl
